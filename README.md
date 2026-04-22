@@ -16,10 +16,6 @@ A cryptocurrency tracking web application built with React. Track live prices, m
 
 ---
 
-## 📸 Preview
-
-![Homepage Preview](public/banner2.jpg)
-
 ---
 
 ## ✨ Features
