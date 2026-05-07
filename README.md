@@ -12,7 +12,7 @@ A cryptocurrency tracking web application built with React. Track live prices, m
 
 ## 🌐 Live Demo
 
-🔗 [View Live App](#) https://ornate-baklava-38e9e5.netlify.app/
+🔗 [View Live App](#): https://ornate-baklava-38e9e5.netlify.app/
 
 ---
 
